@@ -43,6 +43,10 @@ section {
   padding: 100px 0; }
   section h2 {
     font-size: 50px; }
+	
+#sunshine {
+	color:#fdcc52;
+}
 
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
